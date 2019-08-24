@@ -26,9 +26,12 @@ public class PrimeCheckEx1 {
 		System.out.println("Sum of all prime number:" + sum);
 		System.out.println("Total number of prime number between" + start + "to " + end + " is " + count);
 		System.out.println("average of sum of these prime nuber is " + avg);
+
 	}//adding a new comment for test
 
 	public static void main(String[] args) {
 			isPrime(1,200);// 1..new comment 
+
 	}
+
 }
