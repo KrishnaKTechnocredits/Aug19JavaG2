@@ -1,7 +1,7 @@
 package AdityaT;
 
 public class PrimeCheck {
-
+ //bhadara
 	public static void isPrime(int start, int end)
 	{
 	int sum = 0, count =0;
