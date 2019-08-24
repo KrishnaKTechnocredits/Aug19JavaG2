@@ -24,7 +24,7 @@ public class PrimeCheck {
 	  for ( int i =2; i<=100;i++)
 	{
 		 isPrime(i);
-
+//sample comment
 	}
 
 }
