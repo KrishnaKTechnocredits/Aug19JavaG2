@@ -8,7 +8,7 @@ public class Program_7 {
 
 	int difference;
 	
-	int diff(int num1, int num2) {
+	int diff(int num1 , int num2) {
 		difference = num1 - num2;
 		 if(difference < 0 ) {
 			 difference = difference * -1;

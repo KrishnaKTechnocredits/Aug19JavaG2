@@ -17,6 +17,6 @@ public class Program_5 {
 	public static void main(String[] args) {
 		
 		Program_5 p = new Program_5();
-		p.allInteger(5,10);
+		p.allInteger(5, 10);
 	}
 }
