@@ -1,24 +1,30 @@
 package SiddhiB;
 
 public class Asgn2ArrayFindMissingNumber
-
 {	
-	int ary [] = {1,2,3,4,5,6,7,8,9,10};
-	void missingNumber ()
+	
+	int missingNumber (int receivedAry[])
 	{
-		for (int i=0;i<ary.length;i++)
+		int arysum = 0;
+		int length = receivedAry.length+1;
+	for (int i=0;i<receivedAry.length;i++)
 		{
-				System.out.println("Missing number is : "+ i);
+				arysum = arysum +receivedAry[i];
+		}	
+		   int total = length *(length +1)/2 ;
+		   System.out.println("total is " + total);
+		   int  missingNum = total-arysum;
+		   System.out.println("Missing number in the array is :" + missingNum);
 		
-		}
-		
+	 return missingNum;
 	}
-
 	public static void main(String[] args) 
 	
-	{
+	{	
+		int ary [] = {1,2,3,5,6};
 		Asgn2ArrayFindMissingNumber fmn = new Asgn2ArrayFindMissingNumber();
-		fmn.missingNumber();
+		fmn.missingNumber(ary);
+		
 
 	}
 
