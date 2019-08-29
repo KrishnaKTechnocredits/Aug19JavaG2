@@ -1,4 +1,4 @@
-package PrateetK;
+package prajwal;
 
 class LoopEx1
 {
@@ -15,6 +15,3 @@ class LoopEx1
         loopEx1.display("Maulik");
     }
 }
-
-
-
