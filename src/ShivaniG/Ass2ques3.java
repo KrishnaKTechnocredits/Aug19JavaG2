@@ -1,4 +1,4 @@
-package assignment_2;
+package ShivaniG;
 
 //Check if array contains a number in Java
 public class Ass2ques3 {

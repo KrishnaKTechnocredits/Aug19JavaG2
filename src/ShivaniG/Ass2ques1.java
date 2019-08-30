@@ -1,4 +1,4 @@
-package assignment_2;
+package ShivaniG;
 
 //Find the missing number in integer array of 1 to 10
 public class Ass2ques1 {

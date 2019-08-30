@@ -1,4 +1,4 @@
-package assignment_2;
+package ShivaniG;
 
 //Largest and smallest number in unsorted array
 public class Ass2ques4 {

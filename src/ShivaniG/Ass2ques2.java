@@ -1,4 +1,4 @@
-package assignment_2;
+package ShivaniG;
 
 //Find duplicate number on Integer array in Java
 public class Ass2ques2 {
