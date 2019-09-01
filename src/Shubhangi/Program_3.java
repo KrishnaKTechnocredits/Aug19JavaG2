@@ -7,7 +7,7 @@ package Shubhangi;
 public class Program_3 {
 	
 	
-	int sum = 0;
+	int sum;
 	
 	int addArray(int x[]) {
 		for(int i=0; i<x.length; i++) {

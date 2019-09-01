@@ -15,7 +15,7 @@ public class Program_8 {
 		
 		for(int i=0; i<input.length();i++) {	
 			if(input.charAt(i) == ch) {
-            cnt++;				
+            cnt ++;				
 			}
 		}
 		System.out.println(ch+":"+cnt);
