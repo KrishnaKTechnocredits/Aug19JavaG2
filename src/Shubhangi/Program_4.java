@@ -11,7 +11,6 @@ public class Program_4 {
 	int addArray(int x[]) {
 		for(int i=0; i<x.length; i++) {
 			x[i] = x[i]*x[i];
-		//	x[i] = (int) Math.pow(x[i], 2);
 			sum = sum+x[i];
 		}
 		

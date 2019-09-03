@@ -6,7 +6,7 @@ package Shubhangi;
 
 public class Program_1 {
 	
-	int c=0;
+	int c;
 	static int total;
 	
 	int add(int x, int y) {

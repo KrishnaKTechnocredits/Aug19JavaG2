@@ -10,7 +10,7 @@ public class Program_6 {
 	
 	void m1(int x[], int y[]){
 		
-		for(int i=0; i<x.length; i++) {
+		for(int i=0; i< x.length; i++) {
 			for(int j=0; j<y.length; j++) {
 				if(i==j) {
 					sum = x[i]+y[j];

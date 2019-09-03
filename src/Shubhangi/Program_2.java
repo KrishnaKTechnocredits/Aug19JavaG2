@@ -1,12 +1,12 @@
 /*
- * Sum of all elements of an array of size 4
+ * Sum of all elements of an array of size 4 
  */
 
 package Shubhangi;
 
 public class Program_2 {
 
-	int total=0;
+	int total;
 	
 	int addArray(int x[]) {
 		for(int i=0; i<x.length; i++) {
