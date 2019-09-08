@@ -1,4 +1,4 @@
-package Shubhangi;
+package prajwal;
 
 class LoopEx1
 {
