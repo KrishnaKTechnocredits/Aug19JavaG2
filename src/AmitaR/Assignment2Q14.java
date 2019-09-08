@@ -2,7 +2,7 @@
 int a = {15, 24, 52, 49, 62, 10}; 
 output :- {24, 52, 62, 10}*/ 
 
-package arrayAssignment2;
+package AmitaR;
 
 public class Assignment2Q14 {
 

@@ -2,7 +2,7 @@
 a. int array1 = {1, 3, 6, 9, 7} 
 b. int array2 = {2, 5, 6, 9, 8} output Array :- {6, 9}*/
 
-package arrayAssignment2;
+package AmitaR;
 
 public class Assignment2Q12 {
 
