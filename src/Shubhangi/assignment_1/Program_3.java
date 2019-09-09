@@ -2,7 +2,7 @@
  * Sum of elements of array of size N
  */
 
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class Program_3 {
 	

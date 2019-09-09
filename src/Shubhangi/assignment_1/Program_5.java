@@ -2,7 +2,7 @@
  * Print elements in array between given L and R
  */
 
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class Program_5 {
 

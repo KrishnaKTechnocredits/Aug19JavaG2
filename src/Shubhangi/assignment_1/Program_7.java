@@ -2,7 +2,7 @@
  * Given two numbers print absolute sum between two numbers and if difference is negative then multiply value by -1
  */
 
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class Program_7 {
 
