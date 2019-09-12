@@ -2,7 +2,7 @@
  * Find count of vowels in string
  */
 
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class Program_8 {
 /*

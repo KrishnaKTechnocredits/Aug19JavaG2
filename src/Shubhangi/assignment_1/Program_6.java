@@ -2,7 +2,7 @@
  * Program to add corresponding elements of two array
  */
 
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class Program_6 {
 

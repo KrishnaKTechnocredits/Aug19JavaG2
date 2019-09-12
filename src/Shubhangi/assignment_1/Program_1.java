@@ -2,7 +2,7 @@
  * Sum of two integers
  */
 
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class Program_1 {
 	

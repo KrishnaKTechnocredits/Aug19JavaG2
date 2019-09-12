@@ -1,4 +1,4 @@
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class P1 {
 

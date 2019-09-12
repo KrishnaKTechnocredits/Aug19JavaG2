@@ -2,7 +2,7 @@
  * Sum of squares of array elements of size N
  */
 
-package Shubhangi;
+package Shubhangi.assignment_1;
 
 public class Program_4 {
 	
