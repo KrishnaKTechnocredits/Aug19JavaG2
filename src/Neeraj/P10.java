@@ -1,36 +1,36 @@
 package Neeraj;
-
 import java.util.Scanner;
 
 public class P10 {
 
-	String alphabates = "";
-	String numeric = "";
-
-	void sepDigitNumber(String line) {
-
-		for (int i = 0; i < line.length(); i++) {
-			char a = line.charAt(i);
-			if (Character.isDigit(a))
-
-			{
-				numeric += a;
-
-			} else {
-				alphabates += a;
+public static void main(String[] args) {
+		
+		for(int i=1; i<=4; i++){
+			for(int j=1; j<=i; j++){
+				System.out.print("* ");
 			}
+			System.out.println();
 		}
-		System.out.print("Alphabates in the User Input:" + " " + alphabates + " " + "and numbers in User Input:" + " "
-				+ numeric);
-
-	}
-
-	public static void main(String[] args) {
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Line to be separated");
 		String line = sc.nextLine();
 		sc.close();
-		new P10().sepDigitNumber(line);
+		
+		
+
+	
+
+
+//public class P10 {
+
+	
+
+	
+
+	//public static void main(String[] args) {
+				
 	}
+
 
 }
