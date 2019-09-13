@@ -8,6 +8,7 @@ package PrateetK;
  * 
  */
 public class P3 {
+	
 
 	public static void main (String args[]){
 		for (int i=1; i<=4; i++){
@@ -17,7 +18,7 @@ public class P3 {
 						System.out.print(i+" ");
 						}
 						else{
-							v=i+(j-1)*2;
+							v=i+(j-1)*2; //logic so that value of j is comes with +2 in each row specially from 2nd row onwards.
 						System.out.print(v+" ");
 						}
 					}
